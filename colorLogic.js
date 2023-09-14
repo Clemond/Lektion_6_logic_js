@@ -1,0 +1,1 @@
+document.getElementById("my-colour-id").style.color = "red";
